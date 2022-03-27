@@ -1,8 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
-*/
+   * Create By Rusdi.
+   * Contact Me on wa.me/6281238772258
+   * Follow https://github.com/Miharu-san
 
 const fs = require('fs')
 const chalk = require('chalk')
